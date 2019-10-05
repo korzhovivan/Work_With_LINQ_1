@@ -1,0 +1,7 @@
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Korzhov Ivan\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
